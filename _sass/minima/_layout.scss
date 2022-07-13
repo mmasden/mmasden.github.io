@@ -3,10 +3,10 @@
  */
 .site-header {
   // border-top: 5px solid $light-background-color;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  border-bottom: 2px solid $dark-background-color;
+  min-height: $spacing-unit * 2;
   background-image: linear-gradient(to bottom, $dark-background-color, darken($light-background-color,10%));
-
+  // box-shadow: 0px 10px 20px 5px lighten($dark-background-color,10%);
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -109,8 +109,9 @@
  */
 
 .site-footer {
-  // border-top: 2px solid $grey-color-light;
-  background: linear-gradient(to bottom, $light-background-color, $dark-background-color);
+  // box-shadow: 0px -10px 20px 0px lighten($dark-background-color,10%);
+  border-top: 2px solid $dark-background-color;
+  background: linear-gradient(to bottom, darken($light-background-color,10%), $dark-background-color);
   padding: $spacing-unit 0;
 }
 
