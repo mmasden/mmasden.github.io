@@ -4,4 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This is my teaching page.
+Check back later for information about my teaching.

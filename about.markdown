@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is Marissa's website.
+Check back later for information about Marissa.
