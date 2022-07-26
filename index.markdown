@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: About Me
 ---
 
-<div class="row" style="display: flex; justify-content: center; position: relative;">
-    <img src="assets/images/portrait.png" width="200" >
-</div>
+![image](assets/images/portrait.png){:style="float:right; width:200px; margin-left:30px;"}
 
-## About Me
+I am a Ph.D. student in the [Mathematics department](https://math.uoregon.edu/) at the University of Oregon. My advisor is [Dev Sinha](https://pages.uoregon.edu/dps/index.php). My research lies at the intersection of applied topology and machine learning.   

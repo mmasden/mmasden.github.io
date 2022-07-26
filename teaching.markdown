@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+menu: main
 ---
 
 ### Courses
@@ -22,7 +23,7 @@ permalink: /teaching/
 
 ### Teaching Seminar
 
-I co-organize the University of Oregon's [Student Teaching Seminar](https://math.uoregon.edu/seminars) for mathematics graduate students together with [Greg Knapp](https://pages.uoregon.edu/gknapp4/index.html). 
+I co-organize the [Student Teaching Seminar](https://math.uoregon.edu/seminars) for mathematics graduate students at the University of Oregon, together with [Greg Knapp](https://pages.uoregon.edu/gknapp4/index.html). 
 
 ### Other Teaching 
 
