@@ -28,3 +28,70 @@ I co-organize the [Student Teaching Seminar](https://math.uoregon.edu/seminars) 
 ### Other Teaching 
 
 I was a Washington State Certificated Educator from 2015-2017, having completed certification requirements at [Walla Walla University](https://www.wallawalla.edu/academics/areas-of-study/education-and-psychology/education/). I taught Geometry and AP Statistics at [Henrietta Lacks Health and Bioscience High School](https://sites.google.com/evergreenps.org/henrietta-lacks/home).
+
+
+### Desmos 
+
+<div class="desmos-border">
+		<div id="taylor-series" class="desmos-container"></div>
+	</div>
+	
+<script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+
+<script>
+    const DESMOS_PURPLE = "#6600cc";
+    const DESMOS_BLUE = "#0087cc";
+    
+    
+    
+    let data =
+    {
+        "taylor-series":
+        {
+            bounds: {left: -10, right: 10, bottom: -10, top: 10},
+            
+            expressions:
+            [
+                {latex: String.raw`f(x)=\{x<0:-x, x>= 0: x^{2}\}`, color: DESMOS_PURPLE, secret:true},
+                {latex: String.raw`f(x)+1`, color: DESMOS_BLUE},
+                {latex: String.raw`a=5`, sliderBounds: {min: 0, max: 10, step: 1}},
+            ]
+        }
+    };
+    
+    create_desmos_graphs(data);
+    
+    
+    function create_desmos_graphs(data)
+    {
+        document.querySelectorAll(".desmos-container").forEach(element =>
+        {
+            let calculator = Desmos.GraphingCalculator(element, {
+                keypad: false,
+                settingsMenu: false,
+                zoomButtons: false,
+                showResetButtonOnGraphpaper: true,
+                border: false,
+                expressionsCollapsed: true,
+                
+                xAxisMinorSubdivisions: 1,
+                yAxisMinorSubdivisions: 1
+            });
+            
+            data[element.id].expressions.forEach(expression =>
+            {
+                expression.latex = expression.latex.replace(/\(/g, String.raw`\left(`);
+                expression.latex = expression.latex.replace(/\)/g, String.raw`\right)`);
+                
+                expression.latex = expression.latex.replace(/\[/g, String.raw`\left[`);
+                expression.latex = expression.latex.replace(/\]/g, String.raw`\right]`);
+            });
+            
+            calculator.setMathBounds(data[element.id].bounds);
+            
+            calculator.setExpressions(data[element.id].expressions);
+            
+            calculator.setDefaultState(calculator.getState());
+        });
+    }
+</script>
