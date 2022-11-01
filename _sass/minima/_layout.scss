@@ -217,7 +217,8 @@
 
 .fullpage-embed { 
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    height: 400px;
+    width: calc(100% - (#{$spacing-unit} / 2));
+    height: 50vh;
 }
 
 /**
