@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+order: 4
 ---
 
 *Last updated on October 12, 2022.*

@@ -4,6 +4,7 @@
 
 layout: page
 title: About Me
+order: 1
 ---
 
 ![image](assets/images/portrait.png){:style="float:right; width:200px; margin-left:30px;"}
