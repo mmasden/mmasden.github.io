@@ -1,40 +1,21 @@
 ---
-layout: page
-title: Teaching
-permalink: /teaching/
-menu: main
+layout: post
+title: "Sample Desmos Activities"
+categories: teaching
 ---
 
-### Courses
-
-*In the capacity of Instructor of Record:*
-
-* Math 111 (College Algebra)
-* Math 112 (Elementary Functions)
-* Math 231 (Elements of Discrete Mathematics I) 
-* Math 243 (Intro. to Methods of Probability and Statistics)
-* Math 251 (Calculus I)
-
-*In the capacity of Graduate Assistant/Marker*: 
-
-* Math 243 (Intro. to Methods of Probability and Statistics)
-* Math 461 (Introduction to Mathematical Methods of Statistics I) 
-* Math 635-636 (Algebraic Topology)
-
-### Teaching Seminar
-
-I co-organize the [Student Teaching Seminar](https://math.uoregon.edu/seminars) for mathematics graduate students at the University of Oregon, together with [Greg Knapp](https://pages.uoregon.edu/gknapp4/index.html). 
-
-### Other Teaching 
-
-I was a Washington State Certificated Educator from 2015-2017, having completed certification requirements at [Walla Walla University](https://www.wallawalla.edu/academics/areas-of-study/education-and-psychology/education/). I taught Geometry and AP Statistics at [Henrietta Lacks Health and Bioscience High School](https://sites.google.com/evergreenps.org/henrietta-lacks/home).
+I use Desmos activities and graphs as a constructivist tool to allow my students to experiment and draw their own connections. 
 
 
-### Desmos 
+## Function Transformations
+
+The solid graph of the function $f(x)$ is shown below. The dashed graph is a second function, $g(x)$. 
+
+Try using function transformations to find an expression for $g(x)$ in terms of $f(x)$.
 
 <div class="desmos-border">
-		<div id="taylor-series" class="desmos-container"></div>
-	</div>
+		<div id="function-transformations" class="desmos-container"></div>
+</div>
 	
 <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
 
@@ -46,7 +27,7 @@ I was a Washington State Certificated Educator from 2015-2017, having completed 
     
     let data =
     {
-        "taylor-series":
+        "function-transformations":
         {
             bounds: {left: -10, right: 10, bottom: -10, top: 10},
             

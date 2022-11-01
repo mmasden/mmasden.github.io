@@ -1,33 +1,15 @@
 ---
 layout: post
-title: "Courses Taught"
-categories: ["misc"]
+title: "Sample Desmos Activities"
+categories: teaching
 ---
 
-### Courses
+I use Desmos activities and graphs as a constructivist tool to allow my students to experiment and draw their own connections. 
 
-*In the capacity of Instructor of Record:*
-
-* Math 111 (College Algebra)
-* Math 112 (Elementary Functions)
-* Math 231 (Elements of Discrete Mathematics I) 
-* Math 243 (Intro. to Methods of Probability and Statistics)
-* Math 251 (Calculus I)
-
-*In the capacity of Graduate Assistant/Marker*: 
-
-* Math 243 (Intro. to Methods of Probability and Statistics)
-* Math 461 (Introduction to Mathematical Methods of Statistics I) 
-* Math 635-636 (Algebraic Topology)
-
-### Teaching Seminar
-
-I co-organize the [Student Teaching Seminar](https://math.uoregon.edu/seminars) for mathematics graduate students at the University of Oregon, together with [Greg Knapp](https://pages.uoregon.edu/gknapp4/index.html). 
-
-### Desmos 
+For example, 
 
 <div class="desmos-border">
-		<div id="taylor-series" class="desmos-container"></div>
+		<div id="function-transformations" class="desmos-container"></div>
 	</div>
 	
 <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
@@ -40,7 +22,7 @@ I co-organize the [Student Teaching Seminar](https://math.uoregon.edu/seminars) 
     
     let data =
     {
-        "taylor-series":
+        "function-transformations":
         {
             bounds: {left: -10, right: 10, bottom: -10, top: 10},
             
