@@ -9,6 +9,6 @@ In a project-based setting for students with code background, I make assignments
 
 ## Basic Probability Simulations: Making Sense of Probability in Implementation 
 
-*I assigned this activity, and others like it, to an undergraduate student I was mentoring. They had taken a discrete math class and introductory Python, but were interested in learning probability theory, especially with respect to Markov processes on graphs.*
+*I assigned this activity, and others like it, to an undergraduate student I was mentoring. They had taken a discrete math class and introductory Python, but were interested in learning probability theory, especially with respect to Markov processes on graphs. These assignments were accompanied by weekly meetings and assigned readings.*
 
 <script src="https://gist.github.com/mmasden/3456c3acd484f9e0b7dceaf5a661592d.js"></script>
