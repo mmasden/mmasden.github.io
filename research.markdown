@@ -39,7 +39,7 @@ My background and research experiences additionally include applications of grap
 
 *Contribution made during a graduate internship at Pacific Northwest National Labs through ORISE.* 
 
-[Understanding ReLU Activation Patterns through the Sign Sequence Cubical Complex](https://sites.google.com/view/aatrn-poster-session/older-poster-sessions/posters-october-8-2021?authuser=0#h.6hulbq7zdxg8). Poster at Applied Algebraic Topology Research Network Poster Session, October 8, 2021.
+[Understanding ReLU Activation Patterns through the Sign Sequence Cubical Complex](https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/october-2021-posters). Poster at Applied Algebraic Topology Research Network Poster Session, October 8, 2021.
 
 [ChemNetworks 2.2 (polyhedra.c)](https://gitlab.com/aurora-clark-public/chemnetworksv2-2/-/blob/master/polyhedra.c).  
 
