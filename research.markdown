@@ -7,9 +7,9 @@ order: 2
 
 ### Research Interests 
 
-I blend mathematical theory from a range of fields including topology, geometry, combinatorics and algebra, to approach foundational questions about the behavior and properties of neural network functions. My thesis establishes a combinatorial description of ReLU neural network functions using algebraic tools from oriented matroid theory, geometric ideas from piecewise linear Morse theory, and fundamental constructions from algebraic topology.  I write code, mostly in Python (Pytorch) and Sage, to obtain experimental and empirical measurements of the objects I study.
+I blend mathematical theory from a range of fields including **topology, geometry, combinatorics and algebra,** to approach foundational questions about the **behavior and properties of neural network functions.** My thesis uses algebraic constructions from oriented matroid theory, geometric ideas from piecewise linear Morse theory, and fundamental constructions from algebraic topology.  I write code, mostly in **Python (Pytorch)** and **Sage**, to obtain experimental and empirical measurements of the objects I study.
 	 
-My background and research experiences additionally include applications of graph theory and topology in computational chemistry, materials science, and computer vision. I am interested in finding new applications of computational topology in the mathematical and natural sciences, and enjoy working on interdisciplinary projects. 
+My background and research experiences additionally include applications of graph theory and topology in **computational chemistry, materials science, and computer vision.** I am interested in finding **new applications of computational topology** in the mathematical and natural sciences, and enjoy working on interdisciplinary projects. 
 
 ### [My Papers](https://arxiv.org/search/?searchtype=author&query=Masden%2C+M) 
 
