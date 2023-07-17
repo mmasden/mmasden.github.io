@@ -35,7 +35,7 @@ My background and research experiences additionally include applications of grap
 
 ### Other research contributions
 
-[Alloy rupture strength prediction using machine learning and microstructure analysis](http://www.programmaster.org/PM/PM.nsf/ApprovedAbstracts/D9CD1150C0705AFD8525887E0053A7A4?OpenDocument). Ram Devanathan, Osman Mamun, Mohammad Taufique, William E. Frazier, Arun Sathanur, Keerti Kappagantula, Jing Wang, Marissa Masden, Madison Wenzlick, Kelly Rose. To appear, Advanced Characterization Techniques for Quantifying and Modeling Deformation, TMS 2023 Annual Meeting & Exhibition. 
+[Alloy rupture strength prediction using machine learning and microstructure analysis](http://www.programmaster.org/PM/PM.nsf/ApprovedAbstracts/D9CD1150C0705AFD8525887E0053A7A4?OpenDocument). Ram Devanathan, Osman Mamun, Mohammad Taufique, William E. Frazier, Arun Sathanur, Keerti Kappagantula, Jing Wang, Marissa Masden, Madison Wenzlick, Kelly Rose. Advanced Characterization Techniques for Quantifying and Modeling Deformation, TMS 2023 Annual Meeting & Exhibition. 
 
 *Contribution made during a graduate internship at Pacific Northwest National Labs through ORISE.* 
 
