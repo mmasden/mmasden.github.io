@@ -13,6 +13,8 @@ My background and research experiences additionally include applications of grap
 
 ### [My Papers](https://arxiv.org/search/?searchtype=author&query=Masden%2C+M) 
 
+[Automated Grain Boundary (GB) Segmentation and Microstructural Analysis in 347H Stainless Steel Using Deep Learning and Multimodal Microscopy.](https://arxiv.org/abs/2305.07790) Shoieb Ahmed Chowdhury, M. F. N. Taufique, Jing Wang, Marissa Masden, Madison Wenzlick, Ram Devanathan, Alan L Schemer-Kohrn, Keerti S Kappagantula, 2023.
+
 [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://arxiv.org/abs/2207.07696). 2022.
 
 
