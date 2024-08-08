@@ -11,9 +11,16 @@ I blend mathematical theory from a range of fields including **topology, geometr
 	 
 My background and research experiences additionally include applications of graph theory and topology in **computational chemistry, materials science, and computer vision.** I am interested in finding **new applications of computational topology** in the mathematical and natural sciences, and enjoy working on interdisciplinary projects. 
 
-### [My Papers](https://arxiv.org/search/?searchtype=author&query=Masden%2C+M) 
+### [Research](https://arxiv.org/search/?searchtype=author&query=Masden%2C+M) 
 
-[Automated Grain Boundary (GB) Segmentation and Microstructural Analysis in 347H Stainless Steel Using Deep Learning and Multimodal Microscopy.](https://link.springer.com/article/10.1007/s40192-023-00305-7) Shoieb Ahmed Chowdhury, M. F. N. Taufique, Jing Wang, Marissa Masden, Madison Wenzlick, Ram Devanathan, Alan L Schemer-Kohrn, Keerti S Kappagantula. *Integrated Materials and Manufacturing Innovation*, 2024.
+#### In Preparation (workign titles)
+
+*A combinatorial approach to the separation capacity of "dendritic" classification functions*. Caitlin Lienkaemper, Marissa Masden
+
+*Combinatorial Regularity for Relatively Perfect Discrete Morse Gradient Vector Fields on ReLU Neural Networks*. Robyn Brooks, Marissa Masden.
+
+#### Papers
+
 
 [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://arxiv.org/abs/2207.07696). 2022.
 
@@ -34,6 +41,8 @@ My background and research experiences additionally include applications of grap
 <div style="text-align:center">
 <img src="/assets/images/ldasort2.jpg" width="70%">
 </div>
+
+[Automated Grain Boundary (GB) Segmentation and Microstructural Analysis in 347H Stainless Steel Using Deep Learning and Multimodal Microscopy.](https://link.springer.com/article/10.1007/s40192-023-00305-7) Shoieb Ahmed Chowdhury, M. F. N. Taufique, Jing Wang, Marissa Masden, Madison Wenzlick, Ram Devanathan, Alan L Schemer-Kohrn, Keerti S Kappagantula. *Integrated Materials and Manufacturing Innovation*, 2024.
 
 ### Other research contributions
 
