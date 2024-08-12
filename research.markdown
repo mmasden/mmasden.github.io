@@ -15,30 +15,31 @@ My background and research experiences additionally include applications of grap
 
 #### In Preparation (working titles)
 
-*Combinatorial Regularity for Relatively Perfect Discrete Morse Gradient Vector Fields on ReLU Neural Networks*. Robyn Brooks, Marissa Masden.
+* *Combinatorial Regularity for Relatively Perfect Discrete Morse Gradient Vector Fields on ReLU Neural Networks*. Robyn Brooks, Marissa Masden.
 
-*A combinatorial approach to the separation capacity of "dendritic" classification functions*. Caitlin Lienkaemper, Marissa Masden
+* *A combinatorial approach to the separation capacity of "dendritic" classification functions*. Caitlin Lienkaemper, Marissa Masden
 
 #### Papers
-[Automated Grain Boundary (GB) Segmentation and Microstructural Analysis in 347H Stainless Steel Using Deep Learning and Multimodal Microscopy.](https://link.springer.com/article/10.1007/s40192-023-00305-7) Shoieb Ahmed Chowdhury, M. F. N. Taufique, Jing Wang, Marissa Masden, Madison Wenzlick, Ram Devanathan, Alan L Schemer-Kohrn, Keerti S Kappagantula. *Integrated Materials and Manufacturing Innovation*, 2024.
+
+* [Automated Grain Boundary (GB) Segmentation and Microstructural Analysis in 347H Stainless Steel Using Deep Learning and Multimodal Microscopy.](https://link.springer.com/article/10.1007/s40192-023-00305-7) Shoieb Ahmed Chowdhury, M. F. N. Taufique, Jing Wang, Marissa Masden, Madison Wenzlick, Ram Devanathan, Alan L Schemer-Kohrn, Keerti S Kappagantula. *Integrated Materials and Manufacturing Innovation*, 2024.
 
 #### Preprints
 
-[Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://arxiv.org/abs/2207.07696). 2022.
+* [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://arxiv.org/abs/2207.07696). 2022.
 
 
 <div style="text-align:center">
 <img src="/assets/images/torus4.png" width="120%">
 </div>
 
-[Local and global topological complexity measures OF ReLU neural network functions](https://arxiv.org/abs/2204.06062). J. Elisenda Grigsby, Kathryn Lindsey and Marissa Masden, 2022. 
+* [Local and global topological complexity measures OF ReLU neural network functions](https://arxiv.org/abs/2204.06062). J. Elisenda Grigsby, Kathryn Lindsey and Marissa Masden, 2022. 
 
 
 <div style="text-align:center">
 <img src="/assets/images/LC_plus_handles.png" width="30%">
 </div>
 
-[Linear discriminant initialization for feed-forward neural networks](https://arxiv.org/abs/2007.12782). Marissa Masden and Dev Sinha, 2020. 
+* [Linear discriminant initialization for feed-forward neural networks](https://arxiv.org/abs/2007.12782). Marissa Masden and Dev Sinha, 2020. 
 
 <div style="text-align:center">
 <img src="/assets/images/ldasort2.jpg" width="70%">
