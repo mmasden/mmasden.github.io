@@ -28,7 +28,7 @@ My background and research experiences additionally include applications of grap
 ) Robyn Brooks, Marissa Masden, 2024
 
 <div style="text-align:center">
-<img src="/assets/images/criticalcells.jpg" width="120%">
+<img src="/assets/images/criticalcells.jpg" width="100%">
 </div>
 
 * [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://arxiv.org/abs/2207.07696). 2022.
