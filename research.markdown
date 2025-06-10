@@ -19,6 +19,12 @@ My background and research experiences additionally include applications of grap
 
 #### Papers
 
+* [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://epubs.siam.org/doi/full/10.1137/24M1646996). *SIAM Journal* 2022.
+
+
+<div style="text-align:center">
+<img src="/assets/images/torus4.png" width="120%">
+</div>
 
 * [Automated Grain Boundary (GB) Segmentation and Microstructural Analysis in 347H Stainless Steel Using Deep Learning and Multimodal Microscopy.](https://link.springer.com/article/10.1007/s40192-023-00305-7) Shoieb Ahmed Chowdhury, M. F. N. Taufique, Jing Wang, Marissa Masden, Madison Wenzlick, Ram Devanathan, Alan L Schemer-Kohrn, Keerti S Kappagantula. *Integrated Materials and Manufacturing Innovation*, 2024.
 
@@ -29,13 +35,6 @@ My background and research experiences additionally include applications of grap
 
 <div style="text-align:center">
 <img src="/assets/images/criticalcells.jpg" width="100%">
-</div>
-
-* [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://arxiv.org/abs/2207.07696). 2022.
-
-
-<div style="text-align:center">
-<img src="/assets/images/torus4.png" width="120%">
 </div>
 
 * [Local and global topological complexity measures OF ReLU neural network functions](https://arxiv.org/abs/2204.06062). J. Elisenda Grigsby, Kathryn Lindsey and Marissa Masden, 2022. 
