@@ -40,6 +40,7 @@ Dissertation: *[Accessing the Topological Properties of Neural Network Functions
 ## Talks 
 
 ### Research Talks 
+* [Analyzing the Geometric Topology of Artificial (ReLU) Neural Networks](https://preview.scholarlattice.org/submissions/e39a10bb-3fe4-4b90-a539-9a07ded588e6). August 2025. 
 * Sign Sequence Combinatorics for Topological Measures of ReLU neural networks. [Tropical Math and Machine Learning Seminar](https://researchseminars.org/talk/TropicalmathandML/8/ ). March 2025. 
 * Betti numbers of binary and multiclass decision regions of ReLU neural networks. Invited to speak at JMM 2025 AMS Special
 Session on Geometric and Combinatorial Methods in Deep Learning Theory. January 2025. 
@@ -83,7 +84,7 @@ Meet Data Analysis and Machine Learning, The Ohio State University, 2019
 
 **While at the University of Puget Sound (2024-Present)**. 
 
-* 
+* 2025 MOST (Mathematics Outreach Seminar and Training) Fellow
 * Lind-Van Enkevort Award, 24-25 
 * MAA Project NExT Fellow (Blue '24) 
 
@@ -95,25 +96,28 @@ Meet Data Analysis and Machine Learning, The Ohio State University, 2019
 
 <div id="outreach"></div>
 
-## Outreach
+## Outreach and Service
 
+**MAA MathFest 2025** 
+Co-organized Special Session, [*Data Science Examples for Enriching Introductory Math Courses.*](https://maa.org/events/mathfest-mathematical-sessions/contributed-paper-sessions/)
 
-
-Association for Women in Mathematics, UO Student Chapter
+**Association for Women in Mathematics, UO Student Chapter**
 * President, AY 2020-2021 and 2022-2023
 * Secretary, AY 2019-2020
 
-UO AWM K-12 Outreach Committee member 2018-2023; co-chair 2019-2023.
+**UO AWM K-12 Outreach Committee member 2018-2023; co-chair 2019-2023.**
 *  Girls’ Science Adventure Days, Eugene Science Center, with Women in Graduate Sciences (WiGS). Co-designed and ledMath
 Games (2023) and Mathemagic and Maps (2022), two three-hour enrichment programs for 10-15 girls in grades 4-6.
 * Eugene Math Festival (2023). Independently developed two activity booths, Math Doodling and Mystery Shadows.
 * Willagillespie Math and Science Night (2023). Selected activities and coordinated volunteers for three math-focused activity
 booths at a local elementary school’s math and science night.
 Directed Reading Program Mentor, University of Oregon Mathematics Department AY 2021-2022
-American Mathematical Society, UO Student Chapter
+
+**American Mathematical Society, UO Student Chapter**
 * Departmental Liaison (elected position), 2021-2022
 Graduate Affairs Committee, UO Mathematics Department
 * Graduate student representative (nominated position), 2018-2020
 * Graduate Student Peer Mentor, 2019-2023
-Graduate Student Mathematics Teaching Seminar, UO Mathematics Department
+
+**Graduate Student Mathematics Teaching Seminar, UO Mathematics Department**
 * Co-organizer, 2019-2023
