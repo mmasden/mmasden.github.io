@@ -8,16 +8,17 @@ order: 4
 
 *Last updated on June 10, 2025.*
 
-Contact me at \[my_first_initial\]\[my_last_name\] at pugetsound dot edu 
+Contact me  at [mmasden@pugetsound.edu](mailto:mmasden@pugetsound.edu)
 
 ### Contents
 
-1. Education 
-2. Research (See Research Page)
-3. Teaching (See Teaching Page)
-4. Talks 
-5. Honors and Awards 
-6. Leadership, Service & Outreach
+1. [Education](#education) 
+2. [Research (See Research Page)](../research/)
+3. [Teaching (See Teaching Page)](../teaching/)
+4. [Talks](#talks) 
+5. [Honors, Awards and Fellowships](#honors-and-awards) 
+6. [Leadership and Service](#leadership-and-service)
+6. [Outreach](#outreach)
 
 ## Education 
 
@@ -35,6 +36,7 @@ Dissertation: *[Accessing the Topological Properties of Neural Network Functions
 *See my [Teaching Page](../teaching/)*
 
 
+<div id="talks"></div>
 ## Talks 
 
 ### Research Talks 
@@ -65,14 +67,53 @@ mer Presentations, Summer 2021.
 ### Expository Talks and Posters
 
 * Neural Networks, Hyperplane Arrangements, and Topology
- - October 2024: Seattle U Math Colloquium
- - February 2025: UW Tacoma Senior Seminar 
-
+  - October 2024: Seattle U Math Colloquium
+  - February 2025: UW Tacoma Senior Seminar 
 *  Piecewise Linear Morse theory: An overview. Geometry-Topology Seminar, Oregon State University, Fall 2021.
-
 * Understanding ReLU Activation Patterns through the Sign Sequence Cubical Complex. Poster at Applied Algebraic Topol-
 ogy Network Poster Session, Fall 2021.
-
 * Using Persistence Signatures in Machine Learning. Geometry-Topology Seminar, Oregon State University, Spring 2020.
 *  Understanding Neural Networks through Geometry. 1st Midwest Graduate Student Conference: Geometry and Topology
 Meet Data Analysis and Machine Learning, The Ohio State University, 2019
+
+
+<div id="honors-and-awards"></div>
+
+## Honors, Awards and Fellowships
+
+**While at the University of Puget Sound (2024-Present)**. 
+
+* 
+* Lind-Van Enkevort Award, 24-25 
+* MAA Project NExT Fellow (Blue '24) 
+
+**While at the University of Oregon** 
+
+* NSF Research Training Grant, UO Mathematics Department
+* Johnson Fellowship, UO Mathematics Department
+* Dean's First Year Merit Award, UO Mathematics Department 
+
+<div id="outreach"></div>
+
+## Outreach
+
+
+
+Association for Women in Mathematics, UO Student Chapter
+* President, AY 2020-2021 and 2022-2023
+* Secretary, AY 2019-2020
+
+UO AWM K-12 Outreach Committee member 2018-2023; co-chair 2019-2023.
+*  Girls’ Science Adventure Days, Eugene Science Center, with Women in Graduate Sciences (WiGS). Co-designed and ledMath
+Games (2023) and Mathemagic and Maps (2022), two three-hour enrichment programs for 10-15 girls in grades 4-6.
+* Eugene Math Festival (2023). Independently developed two activity booths, Math Doodling and Mystery Shadows.
+* Willagillespie Math and Science Night (2023). Selected activities and coordinated volunteers for three math-focused activity
+booths at a local elementary school’s math and science night.
+Directed Reading Program Mentor, University of Oregon Mathematics Department AY 2021-2022
+American Mathematical Society, UO Student Chapter
+* Departmental Liaison (elected position), 2021-2022
+Graduate Affairs Committee, UO Mathematics Department
+* Graduate student representative (nominated position), 2018-2020
+* Graduate Student Peer Mentor, 2019-2023
+Graduate Student Mathematics Teaching Seminar, UO Mathematics Department
+* Co-organizer, 2019-2023

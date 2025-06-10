@@ -35,9 +35,13 @@ My background and research experiences additionally include applications of grap
 
 
 <div id="prep"></div>
+
 ## In Preparation (working titles)
 
 * *A combinatorial approach to the separation capacity of "dendritic" classification functions*. Caitlin Lienkaemper, Marissa Masden
+* *Computing the Local Complexity of Flat Cells of ReLU networks with Discrete Morse theory*. Robyn Brooks, Marissa Masden. 
+* *Thickened Multiclass Decision Boundaries of ReLU networks.* Marissa Masden 
+
 
 <div id="papers"></div>
 
