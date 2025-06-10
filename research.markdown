@@ -5,21 +5,30 @@ permalink: /research/
 order: 2 
 ---
 
+### Contents
 
+[Research interests](#interests)
+[Find me on...](#findme)
+
+
+<div id="interests"></div>
 ## Research Interests 
 
 I blend mathematical theory from a range of fields including **topology, geometry, combinatorics and algebra,** to approach foundational questions about the **behavior and properties of neural network functions.** My thesis uses algebraic constructions from oriented matroid theory, geometric ideas from piecewise linear Morse theory, and fundamental constructions from algebraic topology.  I write code, mostly in **Python (Pytorch)** and **Sage**, to obtain experimental and empirical measurements of the objects I study.
 	 
 My background and research experiences additionally include applications of graph theory and topology in **computational chemistry, materials science, and computer vision.** I am interested in finding **new applications of computational topology** in the mathematical and natural sciences, and enjoy working on interdisciplinary projects. 
 
-### Find my work on...
+<div id="findme"></div>
+### Find me on...
 
 [Google Scholar](https://scholar.google.com/citations?user=7RQU0k0AAAAJ&hl=en) 
 
 [ArXiV](https://arxiv.org/search/?searchtype=author&query=Masden%2C+M) 
 
+[ORCID](https://orcid.org/0000-0002-0522-1297) 
 
 
+<div id="prep"></div>
 ### In Preparation (working titles)
 
 * *A combinatorial approach to the separation capacity of "dendritic" classification functions*. Caitlin Lienkaemper, Marissa Masden
