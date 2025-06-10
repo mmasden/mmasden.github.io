@@ -5,13 +5,18 @@ permalink: /research/
 order: 2 
 ---
 
-### Contents
+## Contents
 
-[Research interests](#interests)
-[Find me on...](#findme)
-
+1. [Research interests](#interests)
+  - [Find my work](#findme)
+2. [Work in Preparation](#prep) 
+3. [Papers](#papers)
+  - [Publications](#pubs)
+  - [Preprints](#preprints)
+  - [Other Contributions](#other)  
 
 <div id="interests"></div>
+
 ## Research Interests 
 
 I blend mathematical theory from a range of fields including **topology, geometry, combinatorics and algebra,** to approach foundational questions about the **behavior and properties of neural network functions.** My thesis uses algebraic constructions from oriented matroid theory, geometric ideas from piecewise linear Morse theory, and fundamental constructions from algebraic topology.  I write code, mostly in **Python (Pytorch)** and **Sage**, to obtain experimental and empirical measurements of the objects I study.
@@ -19,6 +24,7 @@ I blend mathematical theory from a range of fields including **topology, geometr
 My background and research experiences additionally include applications of graph theory and topology in **computational chemistry, materials science, and computer vision.** I am interested in finding **new applications of computational topology** in the mathematical and natural sciences, and enjoy working on interdisciplinary projects. 
 
 <div id="findme"></div>
+
 ### Find me on...
 
 [Google Scholar](https://scholar.google.com/citations?user=7RQU0k0AAAAJ&hl=en) 
@@ -29,11 +35,17 @@ My background and research experiences additionally include applications of grap
 
 
 <div id="prep"></div>
-### In Preparation (working titles)
+## In Preparation (working titles)
 
 * *A combinatorial approach to the separation capacity of "dendritic" classification functions*. Caitlin Lienkaemper, Marissa Masden
 
-### Papers
+<div id="papers"></div>
+
+## Papers
+
+<div id="pubs"></div>
+
+### Publications
 
 * [Algorithmic Determination of the Combinatorial Structure of the Linear Regions of ReLU Neural Networks](https://epubs.siam.org/doi/full/10.1137/24M1646996). *SIAM Journal on Applied Algebra and Geometry,* Vol. 9, Iss. 2 (2025). https://doi.org/10.1137/24M1646996 
 
@@ -47,7 +59,10 @@ My background and research experiences additionally include applications of grap
 <img src="/assets/images/torus4.png" width="120%">
 </div>
 
-#### Preprints
+
+<div id="preprints"></div>
+
+## Preprints
 
 * [Combinatorial Regularity for Relatively Perfect Discrete Morse Gradient Vector Fields on ReLU Neural Networks.](https://arxiv.org/abs/2412.18005 
 ) Robyn Brooks, Marissa Masden, 2024
@@ -70,7 +85,9 @@ My background and research experiences additionally include applications of grap
 </div>
 
 
-#### Other contributions
+<div id="other"></div>
+
+### Other contributions
 
 [ICML Topological Deep Learning Challenge 2024: Beyond the Graph Domain.](https://arxiv.org/abs/2409.05211). *Mapper Lifting.* With Halley Fritze, Honorable Mention contribution to the 2024 ICML Topological Deep Learning Challenge. 
 
