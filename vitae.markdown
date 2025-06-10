@@ -13,7 +13,7 @@ order: 4
 
 ## Research 
 
-*See my [Resesarch Page](research/)
+*See my [Resesarch Page](../research/)
 
 ## Service 
 
