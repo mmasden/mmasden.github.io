@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculm Vitae
+title: Curriculum Vitae
 permalink: /cv/
 order: 4
 ---
@@ -24,9 +24,8 @@ Contact me  at [mmasden@pugetsound.edu](mailto:mmasden@pugetsound.edu)
 
 **Ph.D., Mathematics (Applied Topology).** June 2023. 
 
-Dissertation: *[Accessing the Topological Properties of Neural Network Functions.](https://www.proquest.com/openview/1b359d2e44a4fae0222967be2d846a5f/1?pq-origsite=gscholar&cbl=18750&diss=y)*
-
-*University of Oregon*, Eugene, OR. Advisor: Dev Sinha. 
+  - Dissertation: *[Accessing the Topological Properties of Neural Network Functions.](https://www.proquest.com/openview/1b359d2e44a4fae0222967be2d846a5f/1?pq-origsite=gscholar&cbl=18750&diss=y)*
+  - *University of Oregon*, Eugene, OR. Advisor: Dev Sinha. 
 
 **B.S., Mathematics and B.S., Chemistry** June 2015. 
 
