@@ -9,7 +9,9 @@ order: 1
 
 ![image](assets/images/portrait.png){:style="float:right; width:200px; margin-left:30px;"}
 
-I am an Assistant Professor in the Data Analytics, Mathematics and Computer Science departments at the University of Puget Sound. 
+I am an Assistant Professor in the Mathematics and Computer Science department at the University of Puget Sound, and the director of the newly-minted [Data Analytics](https://www.pugetsound.edu/academics/data-analytics) program, spearheading the development of the Interdisciplinary Data Analytics minor. You can contact me at [mmasden@pugetsound.edu](mailto:mmasden@pugetsound.edu). Read more about the program's founding [here](https://www.pugetsound.edu/stories/university-puget-sound-announces-new-interdisciplinary-data-analytics-minor). 
+
+-----
 
 I earned my Ph.D. from the [Mathematics department](https://math.uoregon.edu/) at the University of Oregon in 2023, with advisor [Dev Sinha](https://pages.uoregon.edu/dps/index.php). 
 
