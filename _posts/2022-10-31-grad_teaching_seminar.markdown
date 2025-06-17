@@ -6,9 +6,9 @@ categories: teaching
 
 ### Teaching Seminar
 
-I co-organize the [Student Teaching Seminar](https://math.uoregon.edu/seminars) for mathematics graduate students at the University of Oregon, together with [Greg Knapp](https://pages.uoregon.edu/gknapp4/index.html). 
+I co-organized the [Student Teaching Seminar](https://math.uoregon.edu/seminars) for mathematics graduate students at the University of Oregon, together with [Greg Knapp](https://gsknapp.github.io/). 
 
-We aim this seminar at other math graduate students such as ourselves, especially those who are relatively new to teaching and organizing their own classes. Our goals include developing our pedagogy, learning new information about teaching from each other, and improving our classroom environments. The format of the seminar is discussion-based. We organize topics at the beginning of the term, and select one person per week to read a paper or book chapter and prepare questions for discussion during our seminar time.  
+We aimed this seminar at other math graduate students such as ourselves, especially those who are relatively new to teaching and organizing their own classes. Our goals include developing our pedagogy, learning new information about teaching from each other, and improving our classroom environments. The format of the seminar is discussion-based. We organize topics at the beginning of the term, and select one person per week to read a paper or book chapter and prepare questions for discussion during our seminar time.  
 
 Previous topics and books include: 
 
